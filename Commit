@@ -1,0 +1,3 @@
+git add app.json eas.json
+git commit -m "Fix EAS configuration"
+git push origin main
